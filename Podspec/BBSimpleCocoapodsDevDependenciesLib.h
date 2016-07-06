@@ -1,7 +1,7 @@
 // Example Source File
 //
 
-#import "BBSimpleCocoapodsDevDependencies.h"
+#import "BBSimpleCocoapodsDevDependenciesLib.h"
 
 @interface Example : NSObject
 

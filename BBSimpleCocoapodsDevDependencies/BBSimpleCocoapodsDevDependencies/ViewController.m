@@ -1,15 +1,15 @@
 //
-//  AppController.m
+//  ViewController.m
 //  BBSimpleCocoapodsDevDependencies
 //
 
 
 //
 
-#import "AppController.h"
-#import <BBSimpleCocoapodsDevDependencies/BBSimpleCocoapodsDevDependencies.h>
+#import "ViewController.h"
+#import <BBSimpleCocoapodsDevDependenciesLib/BBSimpleCocoapodsDevDependenciesLib.h>
 
-@implementation AppController
+@implementation ViewController
 
 - (void)viewDidLoad
 {

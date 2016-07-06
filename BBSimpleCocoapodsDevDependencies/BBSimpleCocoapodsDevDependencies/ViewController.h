@@ -1,5 +1,5 @@
 //
-//  AppController.h
+//  ViewController.h
 //  BBSimpleCocoapodsDevDependencies
 //
 
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppController : UIViewController
+@interface ViewController : UIViewController
 
 @end
