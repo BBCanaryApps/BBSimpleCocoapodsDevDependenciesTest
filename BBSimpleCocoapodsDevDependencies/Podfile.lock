@@ -1,0 +1,15 @@
+PODS:
+  - BBSimpleCocoapodsDevDependencies (1.0)
+
+DEPENDENCIES:
+  - BBSimpleCocoapodsDevDependencies
+  - BBSimpleCocoapodsDevDependencies (from `../Podspec`)
+
+EXTERNAL SOURCES:
+  BBSimpleCocoapodsDevDependencies:
+    :path: ../Podspec
+
+SPEC CHECKSUMS:
+  BBSimpleCocoapodsDevDependencies: 01d0048f9e947c6b5d4e9bdf2bac1c4863fdb0af
+
+COCOAPODS: 0.23.0.rc1
